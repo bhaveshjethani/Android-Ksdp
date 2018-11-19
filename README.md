@@ -2,6 +2,7 @@
 Utility to print logs to files
 
 ===Usage===
+
 For ex use @dimen/_10sdp instead of hard coded 10dp and that it.
 
  <android.support.v7.widget.AppCompatTextView
@@ -16,6 +17,7 @@ For ex use @dimen/_10sdp instead of hard coded 10dp and that it.
 
 
 ===Implementation===
+
 Include following in your project's build.gradle file under both repositories section
 ```
 maven { url  "https://dl.bintray.com/k9428/ksdp" }
