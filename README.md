@@ -26,5 +26,6 @@ maven { url  "https://dl.bintray.com/k9428/ksdp" }
 Include following in your app's build.gradle file
 ```
 implementation 'lib.ksdp:ksdp:1.0.1' 
+```
 
 That's it!
