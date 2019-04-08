@@ -1,4 +1,4 @@
-# Android-Debug-Log
+# Android-Ksdp
 Utility to print logs to files
 
 ===Usage===
