@@ -1,5 +1,5 @@
 # Android-Ksdp
-Utility to set proper dimension across androd mobile devices.
+Utility to set proper dimension across android mobile devices.
 
 ===Usage===
 
