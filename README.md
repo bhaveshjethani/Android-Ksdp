@@ -1,5 +1,5 @@
 # Android-Ksdp
-Utility to print logs to files
+Utility to set proper dimension across androd mobile devices.
 
 ===Usage===
 
